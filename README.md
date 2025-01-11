@@ -1,6 +1,6 @@
-# MongoDB BREAD Operations App
+# MongoDB BREADS Operations App
 
-A web application demonstrating BREAD (Browse, Read, Edit, Add, Delete, Sort) operations using MongoDB, Express.js, and EJS templating.
+A web application demonstrating BREADS (Browse, Read, Edit, Add, Delete, Sort) operations using MongoDB, Express.js, and EJS templating.
 
 ## Features
 
